@@ -20,7 +20,7 @@ public class Runner {
 		
 		// if (guardian.hasAccess()) {
 			
-			Right workerAtRight = new Right();
+			Right workerAtRight1 = new Right();
 			// Left workerAtLeft   = new Left();
 			// Company company     = new Company();
 		
