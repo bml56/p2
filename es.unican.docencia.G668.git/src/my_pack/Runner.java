@@ -20,19 +20,19 @@ public class Runner {
 		
 		// if (guardian.hasAccess()) {
 			
-			Right workerAtRight1 = new Right();
+			Right workerAtRight = new Right();
 			// Left workerAtLeft   = new Left();
-			// Company company     = new Company();
+			Company company     = new Company();
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("                     UNICAN");
-			// company.identify(); 
+			 company.identify(); 
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
 			System.out.println("                   Our students");
 			// workerAtLeft.identify();
-			// workerAtRight.identify();
+			 workerAtRight.identify();
 			System.out.println("==================================================");
 		// } else {
 		//	System.out.println("You do not have access to this application");			
