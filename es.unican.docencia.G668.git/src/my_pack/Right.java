@@ -4,6 +4,6 @@ public class Right {
 
 	public void identify()
 	{
-		System.out.println("Marín Lavid");
+		System.out.println("Marín Lavid,Borja2");
 	}
 }
