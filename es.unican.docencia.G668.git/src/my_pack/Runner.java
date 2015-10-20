@@ -20,8 +20,8 @@ public class Runner {
 		
 		// if (guardian.hasAccess()) {
 			
-			Right workerAtRight1 = new Right();
-			// Left workerAtLeft   = new Left();
+			Right workerAtRight = new Right();
+			Left workerAtLeft   = new Left();
 			// Company company     = new Company();
 		
 			System.out.println("==================================================");
@@ -31,8 +31,8 @@ public class Runner {
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
 			System.out.println("                   Our students");
-			// workerAtLeft.identify();
-			// workerAtRight.identify();
+			 workerAtLeft.identify();
+			 workerAtRight.identify();
 			System.out.println("==================================================");
 		// } else {
 		//	System.out.println("You do not have access to this application");			
