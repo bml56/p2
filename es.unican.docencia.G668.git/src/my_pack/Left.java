@@ -3,7 +3,7 @@ package my_pack;
 public class Left {
 	public void identify()
 	{
-		System.out.println("Lavid Marín");
+		System.out.println("Lavid Marín,Borja");
 	}
 
 }
