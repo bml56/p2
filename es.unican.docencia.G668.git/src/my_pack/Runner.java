@@ -21,9 +21,9 @@ public class Runner {
 		// if (guardian.hasAccess()) {
 			
 			Right workerAtRight = new Right();
-			// Left workerAtLeft   = new Left();
+			Left workerAtLeft   = new Left();
 			Company company     = new Company();
-		
+			
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("                     UNICAN");
@@ -31,7 +31,7 @@ public class Runner {
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
 			System.out.println("                   Our students");
-			// workerAtLeft.identify();
+			 workerAtLeft.identify();
 			 workerAtRight.identify();
 			System.out.println("==================================================");
 		// } else {
